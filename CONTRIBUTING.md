@@ -29,7 +29,7 @@ For all contributions, a CLA (Contributor License Agreement) needs to be signed 
 
 ### Docs
 
-Contributing guide for docs can be found at [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md).
+Contributing Guide for docs can be found at [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
 ### Community content
 
